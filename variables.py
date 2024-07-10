@@ -1,3 +1,5 @@
+#Variables
+
 # Variables are dynamicaly typed
 # This means types are determined at runtime
 
