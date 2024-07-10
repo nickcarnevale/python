@@ -1,7 +1,6 @@
 # Strings
 
 # Strings are similar to arrays
-
 s = "abc"
 print(s[0:2])
 
@@ -17,8 +16,7 @@ strings = ["ab", "cd", "ef"]
 string = "".join(strings)
 print(f"This is the string: {string}")
 
-# iterating a string
-
+# iterating a strings
 for c in string:
     print(c)
 
