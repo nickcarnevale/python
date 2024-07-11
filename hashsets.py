@@ -11,7 +11,7 @@ mySet.add(3)
 print(mySet)
 print(len(mySet))
 
-# can search without a function
+# can search without a function (0(1))
 print(1 in mySet)
 print(4 in mySet)
 
@@ -24,4 +24,7 @@ print(set([1,2,3]))
 
 # sets are also initalized with {}
 mySet = {i for i in range(5)}
+print(mySet)
+
+mySet = {1,2,3,4,5}
 print(mySet)
