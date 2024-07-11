@@ -15,7 +15,7 @@ class MyClass:
         return 2 * self.getLength()
     
 
-# Class with multiple constructors
+# Multiple constructors workaround
 class MyClass2:
     def __init__(self, param1=None, param2=None):
         if param1 is None and param2 is None:
