@@ -36,3 +36,14 @@ for val in myMap.values():
 for key, val in myMap.items(): 
     print(key, val)
 
+
+# Big O
+# ------------
+# k in d            O(1)
+# get Item          O(1)
+# set Item          O(1)
+# Delete Item       O(1)
+
+# Iterate           O(N)
+# copy()            O(n)
+
