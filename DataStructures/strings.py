@@ -6,8 +6,8 @@ print(s[0:2])
 
 # trim a string
 stri = "    hi"
-stri.strip()
-print(stri)
+s = stri.strip()
+print(s)
 
 # This will create a new string "end time operation"
 s += "def"
