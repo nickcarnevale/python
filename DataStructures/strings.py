@@ -4,6 +4,11 @@
 s = "abc"
 print(s[0:2])
 
+# trim a string
+stri = "    hi"
+stri.strip()
+print(stri)
+
 # This will create a new string "end time operation"
 s += "def"
 
