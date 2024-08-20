@@ -30,3 +30,6 @@ class MyClass2:
             # Constructor with both parameters
             self.param1 = param1
             self.param2 = param2
+
+
+        
