@@ -16,6 +16,10 @@ s += "def"
 print(int("123") + int("123"))
 print(str(123) + str(123))
 
+# if you need the ascii value of a char
+print(ord("a"))
+print(ord("b"))
+
 # combining a list of strings
 strings = ["ab", "cd", "ef"]
 string = "".join(strings)
